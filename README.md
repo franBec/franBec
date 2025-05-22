@@ -48,4 +48,4 @@ I'm a **Java Spring Boot Developer** currently working on large-scale backend sy
 
 ---
 
-> _"Curiosity and abstraction are the roots of all great engineering. It's impossible to know everything—but understanding how to learn is everything."_
+> _The sheer volume of technologies, frameworks, and concepts in software development is overwhelming. It is impossible to know everything. Accept this sooner rather than later. Trying to master every new trend is a recipe for burnout. Once you accept this, you can focus. It's okay to say "I don't know, but I can find out"._
