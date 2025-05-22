@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi there, I'm Franco Exequiel Becvort
 
-<!--
-**franBec/franBec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://pollito.dev/img/about/profile.png" alt="Franco Exequiel Becvort" width="150" />
 
-Here are some ideas to get you started:
+I'm a **Java Spring Boot Developer** currently working on large-scale backend systems for [Ecuador’s largest private bank](https://www.pichincha.com/), with a strong background in cloud platforms, enterprise development, and security-focused microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🐤 Why "Pollito"?
+
+"Pollito" (Spanish for *little chicken*) has been my nickname since my very first birthday, when I was dressed head-to-toe in bright yellow. It stuck—and eventually became part of my professional identity. The 🐤 brand reflects my belief that serious work can still carry personality and warmth.
+
+---
+
+## 🧠 What I Do
+
+- 🔐 Backend Security & Authentication Systems  
+- ☁️ Cloud Architecture (GCP & Azure certified)  
+- 🧪 Microservice Testing & Code Quality (Mutation Testing, Secure Coding)  
+- 🛠️ RESTful APIs & Enterprise Integrations  
+- 🧾 Blogging about Java & Spring at [pollito.dev](https://pollito.dev)
+
+---
+
+## 📌 Highlights
+
+- 🏦 Backend Developer @ Devsu (Banco Pichincha)
+- 💡 Google Cloud Certified (Architect, Associate, Digital Leader)
+- 🌐 Microsoft Azure Fundamentals Certified
+- 🧭 Former Academic Researcher in Cybersecurity Awareness
+- 🎓 Partial B.Sc. in Computer Engineering, UN San Luis
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, Groovy, JavaScript, TypeScript, SQL  
+**Frameworks:** Spring Boot, Grails, React, Next.js  
+**Cloud:** Google Cloud Platform, Microsoft Azure  
+**Databases:** Oracle, MySQL, SQL Server  
+**Tools:** Git, Maven, Docker, IntelliJ, Postman, Jira, Scrum
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 Website: [pollito.dev](https://pollito.dev)
+- 💼 LinkedIn: [linkedin.com/in/franco-becvort](https://linkedin.com/in/franco-becvort)
+- 📬 Email: [franbecvort@gmail.com](mailto:franbecvort@gmail.com)
+
+---
+
+> _"Curiosity and abstraction are the roots of all great engineering. It's impossible to know everything—but understanding how to learn is everything."_
